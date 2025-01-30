@@ -1,7 +1,7 @@
-.header {
+.textbox {
     padding: 80px;
     text-align: center;
-    background-color: darkmagenta;
+    color: darkmagenta;
     text-decoration-color: aqua;
     text-decoration: wavy;
 }
